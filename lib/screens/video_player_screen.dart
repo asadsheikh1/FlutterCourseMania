@@ -270,8 +270,9 @@ class _VideoPlayerScreenState extends State<VideoPlayerScreen> {
                                                                     .toString()
                                                             ? IconButton(
                                                                 onPressed: () {
-                                                                  deleteComment(
-                                                                      '1');
+                                                                  deleteComment(comment
+                                                                      .commentId
+                                                                      .toString());
                                                                   context
                                                                       .read<
                                                                           CommentCubit>()
