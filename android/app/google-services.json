@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1023162857346",
+    "project_id": "fcmflutter33-f663f",
+    "storage_bucket": "fcmflutter33-f663f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023162857346:android:adb43af3ab87a43c8d019b",
+        "android_client_info": {
+          "package_name": "com.example.course_mania"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023162857346-bjn7mrf1c02u2hhl1h7k1ccj58gq3eib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.course_mania",
+            "certificate_hash": "d4ba1415b3aaf2d05f890c21d118127591cd4481"
+          }
+        },
+        {
+          "client_id": "1023162857346-jmvuf2qmt5h5uk0u03obuc5b2uvbf4fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByN6XRLzZhQQxjHrhM4DEQpySQMM-GBHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023162857346-bo3ju381pf7ag60ffqdck79mttpl9q9o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1023162857346-81chrik11efgds2nuhlohr9spfns9fia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.courseMania"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
